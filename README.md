@@ -38,7 +38,7 @@ sudo ./install_socks5_proxy.sh
 
 ## Persyaratan Sistem
 
-- Ubuntu 18.04/20.04/22.04 atau Debian 10/11
+- Ubuntu 22.04
 - Hak akses root/sudo
 - Koneksi internet
 
